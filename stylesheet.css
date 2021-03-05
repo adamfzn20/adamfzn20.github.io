@@ -38,7 +38,7 @@ li {
 
 .header-list a {
   text-decoration: none;
-  color: rgb(224, 125, 11);
+  color: rgb(255, 255, 255);
 }
 
 .copy-container {
@@ -53,13 +53,7 @@ li {
   height: 100vh;
   box-sizing: border-box;
   background-size: cover;
-}
-
-.img {
-  position: absolute;
-  right: 20%;
-  bottom: 0;
-  width: 300px;
+  background-image: url("images/bg.png");
 }
 
 .main {
@@ -99,7 +93,6 @@ li {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 10px;
-
 }
 
 .social {
@@ -119,10 +112,10 @@ li {
 
 .about {
   font-size: 28px;
-  height: 260px;
+  height: 200px;
   background-color: rgb(244, 244, 244);
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 10px;
+  padding-bottom: 50px;
 }
 
 /*.about h3 {
