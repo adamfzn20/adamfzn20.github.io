@@ -42,7 +42,7 @@ li {
 }
 
 #home {
-  padding: 30px 50px;
+  padding: 50px 50px;
   position: relative;
   box-sizing: border-box;
   background-size: cover;
@@ -107,16 +107,17 @@ li {
 
 .about {
   font-size: 28px;
-  height: 300px;
+  height: 250px;
   background-color: rgb(244, 244, 244);
-  padding-top: 50px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
 
-/*.about h3 {
-  padding-top: 80px;
+.about h3 {
+  padding-top: 35px;
   padding-bottom: 20px;
-}*/
+}
+
 
 .about p {
   padding: 0px 150px;
