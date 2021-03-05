@@ -41,16 +41,9 @@ li {
   color: rgb(255, 255, 255);
 }
 
-.copy-container {
-  margin-top: 100px;
-  margin-bottom: 100px;
-}
-
 #home {
   padding: 30px 50px;
   position: relative;
-  width: 100%;
-  height: 100vh;
   box-sizing: border-box;
   background-size: cover;
   background-image: url("images/bg.png");
@@ -63,6 +56,8 @@ li {
 .copy-container {
   text-align: justify;
   width: 600px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .copy-container h1 {
@@ -146,7 +141,7 @@ li {
 
 .contents-item img {
   height: 300px;
-  width: 400px;
+  width: 300px;
   box-shadow: 5px 5px 20px rgba(228, 228, 228, 0.886);
 }
 
