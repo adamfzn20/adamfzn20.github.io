@@ -65,7 +65,6 @@ li {
   margin-bottom: 0px;
   letter-spacing: 5px;
   margin-top: 0;
-
 }
 
 .copy-container h2 {
@@ -117,7 +116,6 @@ li {
   padding-top: 35px;
   padding-bottom: 20px;
 }
-
 
 .about p {
   padding: 0px 150px;
@@ -177,7 +175,7 @@ textarea {
 
 ::placeholder {
   font-family: "Avenir Next";
-  color: #7C7D83;
+  color: #7c7d83;
 }
 
 .contact-submit {
@@ -220,5 +218,10 @@ textarea {
 
 .footer-copyright a {
   text-decoration: none;
+  color: #ffffff;
+}
+
+.footer-copyright p {
+  padding-left: 135px;
   color: #ffffff;
 }
